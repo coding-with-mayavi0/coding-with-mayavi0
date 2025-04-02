@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 Welcome to my channell
+- here i will post my works that are posted on my youtube channell
+  . [CHEK OUT MY CHANNEL](https://youtube.com/@coding_with_mayavi0)
+
+
+
+- 📫 How to reach me:
+   . [instagram](https://instagram.com/kt_habeeb_)
+   . [Telegram channel](https://t.me/coding_with_mayavi0/)
+   . [Linked in](https://www.linkedin.com/in/muhammed-habeeb-rahman-kt-a38b41247/)
