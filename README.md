@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 Welcome to my channell
 - here i will post my works that are posted on my youtube channell
-  . [CHEK OUT MY CHANNEL](https://youtube.com/@coding_with_mayavi0)
+  . [CHECK OUT MY CHANNEL](https://youtube.com/@coding_with_mayavi0)
 
 
 
