@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 
 
+
 - 📫 How to reach me:
+   . [github](https://github.com/muh-habeeb)
    . [instagram](https://instagram.com/kt_habeeb_)
    . [Telegram channel](https://t.me/coding_with_mayavi0/)
    . [Linked in](https://www.linkedin.com/in/muhammed-habeeb-rahman-kt-a38b41247/)
