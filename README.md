@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welcom</h1>
+<h1 align="center">Hi 👋, Welcome</h1>
 <!-- <h3 align="center">A passionate Full Stack Developer from India</h3> -->
 <h3 align="center">A Dumb Thinks he can change the world! </h3>
 
@@ -18,7 +18,9 @@
  💬 Ask me about <b>Anything!</b>  <br>
  <!-- 📫 Reach me at <a href="mailto:muhhabeeb787+github@gmail.com">muhhabeeb787+readme@gmail.com</a>  <br> -->
  <!-- 📄 Learn about my experience at <a href="https://muh-habeeb.vercel.app/">muh-habeeb.vercel.app</a>  <br> -->
-</p> -->
+<!--
+</p>
+-->
 
 <br/>
 <hr>
