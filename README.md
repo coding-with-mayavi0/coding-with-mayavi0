@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I'm MUHAMMED HABEEB RAHMAN KT</h1>
+<h1 align="center">Hi 👋, Welcom</h1>
 <!-- <h3 align="center">A passionate Full Stack Developer from India</h3> -->
 <h3 align="center">A Dumb Thinks he can change the world! </h3>
 
 <br/>
-
+<!-- 
 <p align="center">
  <!-- 🔭 I’m currently working on <a href="#">My Portfolio</a>  <br> -->
- 🌱 I’m currently learning <b>Basics😁</b>  <br>
+ <!-- 🌱 I’m currently learning <b>Basics😁</b>  <br> -->
  <!-- 🌱 I’m currently learning <b>Everything!</b>  <br> -->
- 👯 I’m looking to collaborate on <a href="#">anything</a>  <br>
- 🤝 I’m looking for help with learning everything!  <br>
+ <!-- 👯 I’m looking to collaborate on <a href="#">anything</a>  <br> -->
+ <!-- 🤝 I’m looking for help with learning everything!  <br> -->
  <!-- 🤝 I’m looking for help with <a href="https://muh-habeeb.vercel.app/">SaaS Projects</a>  <br> -->
  <!-- 👨‍💻 Most of my projects are available at 🔗 [muh-habeeb.vercel.app](https://muh-habeeb.vercel.app/) -->
- 👨‍💻 Most of my projects are available at 🔗 <a href="muh-habeeb.vercel.app"> web </a>>
+ <!-- 👨‍💻 Most of my projects are available at 🔗 <a href="muh-habeeb.vercel.app"> web </a>> -->
  <br>
  <!-- 📝 I regularly write and share articles on <a href="https://muh-habeeb.vercel.app/">my socials</a>  <br> -->
  💬 Ask me about <b>Anything!</b>  <br>
- 📫 Reach me at <a href="mailto:muhhabeeb787+github@gmail.com">muhhabeeb787+readme@gmail.com</a>  <br>
- 📄 Learn about my experience at <a href="https://muh-habeeb.vercel.app/">muh-habeeb.vercel.app</a>  <br>
-</p>
+ <!-- 📫 Reach me at <a href="mailto:muhhabeeb787+github@gmail.com">muhhabeeb787+readme@gmail.com</a>  <br> -->
+ <!-- 📄 Learn about my experience at <a href="https://muh-habeeb.vercel.app/">muh-habeeb.vercel.app</a>  <br> -->
+</p> -->
 
 <br/>
 <hr>
@@ -100,7 +100,7 @@
         <!-- <a href="http://www.github.com/muh-habeebe"><img src="https://github-readme-stats.vercel.app/api?username=muh-habeeb&show_icons=true&hide=prs,&count_private=true&title_color=22c55e&text_color=10b981&icon_color=14b8a6&bg_color=181824&hide_border=true&show_icons=true" alt="muh-habeeb's GitHub stats" /></a>
         <br> -->
         <a href="http://www.github.com/muh-habeebe">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muh-habeeb&stroke=10b981&background=181824&ring=22c55e&fire=22c55e&currStreakNum=10b981&currStreakLabel=22c55e&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muh-habeebe&stroke=10b981&background=181824&ring=22c55e&fire=22c55e&currStreakNum=10b981&currStreakLabel=22c55e&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
         <br>
         <!-- <a href="https://github.com/muh-habeebe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muh-habeeb&langs_count=10&title_color=22c55e&text_color=10b981&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a> -->
 </p>
@@ -110,10 +110,10 @@
 <!-- follower count -->
 <p align="center" >
     <ahref="https://www.github.com/muh-habeebe" target="_blank" rel="noreferrer"><img
-    src="https://img.shields.io/github/followers/muh-habeeb?logo=github&style=for-the-badge&color=14b8a6&labelColor=181824" height="39" /></a>
+    src="https://img.shields.io/github/followers/muh-habeebe?logo=github&style=for-the-badge&color=14b8a6&labelColor=181824" height="39" /></a>
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=muh-habeeb&color=orange&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=muh-habeebe&color=orange&style=for-the-badge">
 </p>
 
 <h3 align="center">Languages and Tools</h3>
